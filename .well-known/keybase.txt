@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/niccopiere
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://niccolo.pieretti.dev
+  * I am niccopiere (https://keybase.io/niccopiere) on keybase.
+  * I have a public key ASDrqu7gNQb39lqWgnJyojMlz5wss38Cy5CRHvFv0nJXKwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ebaaeee03506f7f65a96827272a23325cf9c2cb37f02cb90911ef16fd272572b0a",
+      "host": "keybase.io",
+      "kid": "0120ebaaeee03506f7f65a96827272a23325cf9c2cb37f02cb90911ef16fd272572b0a",
+      "uid": "916a36eaf33c403680c1c3d2952fdc19",
+      "username": "niccopiere"
+    },
+    "merkle_root": {
+      "ctime": 1617196313,
+      "hash": "77a884a1d88d24a7e536a5ce8464f4afbcd8315ebe71391b4d89ac4755032a490be898e41356c658e7a4395b939323b807e4502bfbe2472fed62b73ff7d579be",
+      "hash_meta": "beaf971f5507c274ac8494b3ea695e6c2080c6733b8d58800daff5773da774eb",
+      "seqno": 19514466
+    },
+    "service": {
+      "entropy": "2gy22yjlT/E+0/FlSQxSuIxi",
+      "hostname": "niccolo.pieretti.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1617196323,
+  "expire_in": 504576000,
+  "prev": "495f1b3f3dcf528c3579935f6bc1633f1243189dd67948b53c31557ac277d8be",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg66ru4DUG9/ZaloJycqIzJc+cLLN/AsuQkR7xb9JyVysKp3BheWxvYWTESpcCDcQgSV8bPz3PUow1eZNfa8FjPxJDGJ3WeUi1PDFVesJ32L7EIH0FLSzXxiu7lX9bjE+10llpS9cspClhjHCcGKaSksbZAgHCo3NpZ8RACApjD6HygdxqqrMOkPO9b7QOPf6rgSHSDPaFDabUYyhA4ux3wmAkx34nspBPtiVA0YjQuwrivDahhHDy3JJPAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFuRuFt/oGDvruDVs995q9M0ggj2ZQ0OOBiHIlTKA4hwo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/niccopiere
+
+==================================================================
